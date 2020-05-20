@@ -1,3 +1,20 @@
 file->new->project
 ->maven->create from archetype->quickstart->next->name of project(java_prgm)->next->finish.
 then in project:java_prgm->src->main->java->org.example->app.
+
+LOMBOK:
+ need to be installed in a library.so we use pom.mxl
+ BROWSER:
+  search "lombok maven dependency" in google
+  click org.projectlombok >> lombok-Maven Repository
+  click latest version on the top left corner
+  their wil be maven,gradle,svt,grape..........
+  click Mavencopy the code.
+ INTELLIJ:
+  pom.xml
+  dependencies
+  paste
+  refresh maven(not necessary do if required)-present in right top
+
+  maven->plugins and dependencies present(lombok will be present in dependencies)
+  settings->plugins->search->lombok->install
