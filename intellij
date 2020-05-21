@@ -18,3 +18,19 @@ LOMBOK:
 
   maven->plugins and dependencies present(lombok will be present in dependencies)
   settings->plugins->search->lombok->install
+
+SHORTCUT KEYS:
+
+Alt + Enter
+  When we see an error in our code, if we place the cursor on the error and press Alt+Enter we get a list of suggested fixes for the problem.
+F2
+  to jump next error or warnings.
+debug:
+  add breakpoint
+  right click ->debug->press function plus f7 or f8
+ctrl+?
+  single line comment for block(multiple line)
+alt+ctrl+l
+  proper allignment
+shift+alt+ctrl+l
+  realignment  
