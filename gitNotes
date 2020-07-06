@@ -1,0 +1,12 @@
+git notes:
+
+install git
+using git cmd clone learnings repository here......
+atom-add project.
+add project folder-add learnings..automatic unstage..thn rit clk stge coments cmit push.
+
+
+
+Run
+  git config --global user.email "devamathanika@gmail.com"
+  git config --global user.name "mathanikasekar"
