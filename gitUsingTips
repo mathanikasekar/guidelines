@@ -7,11 +7,10 @@ add project folder-add learnings..automatic unstage..thn rit clk stge coments cm
 
 command prompt:
  documents->education->place(need to clone)
-
  cd documents
  cd education
- git clone https://github.com/mathanikasekar/guidelines.git(link of repository)
+ git clone https://github.com/mathanikasekar/guidelines.git(link of repository) paste link
 
-Run:
+Run
   git config --global user.email "mathanika2510@gmail.com"
-  git config --global user.name "mathanikasekar"
+ git config --global user.name "mathanikasekar"
