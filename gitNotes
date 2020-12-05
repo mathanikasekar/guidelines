@@ -9,7 +9,7 @@ command prompt:
  documents->education->place(need to clone)
  cd documents
  cd education
- gitclone paste link
+ git clone paste link
 
 Run
   git config --global user.email "devamathanika@gmail.com"
