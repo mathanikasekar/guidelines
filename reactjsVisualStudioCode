@@ -1,0 +1,6 @@
+install node js-open cmd prompt
+in cmd prompt type
+node -v
+npm install -g yarn
+
+
