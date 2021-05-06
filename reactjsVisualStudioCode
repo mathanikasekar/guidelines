@@ -1,6 +1,33 @@
-install node js-open cmd prompt
+part 1: https://www.youtube.com/watch?v=16tlywKxy4o&t=193s
+part 2: https://www.youtube.com/watch?v=rYLBnKVlej0&t=377s
+
+1.install node js-open cmd prompt
 in cmd prompt type
 node -v
-npm install -g yarn
+npm install -g yarn (npm-node package manager)
 
 
+2.open cmd prompt:
+  npm install -g create-react-app(for the first time it wil install, after that it will update)
+
+3.open visual studio code:
+ terminal
+ new terminal
+ in that type:
+  create-react-app appName
+  create-react-app helloworld(it takes few minutes to install)
+
+  after that type
+  cd appName
+  npm start
+  when we type this browser will automatically open
+
+4.in visual studio code:
+ at left corner-in folder(which we have opened already)
+ here my folder name is "ReactJS"
+ here my app name is "helloworld"
+ ReactJS-helloworld-src-app.js
+
+ it has some code..we can replace the <div> section by our own code.
+
+everytime we should start from step 3 (after installation).
