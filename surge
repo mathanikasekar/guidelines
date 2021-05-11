@@ -1,0 +1,14 @@
+Youtube link : https://www.youtube.com/watch?v=qxTdG44RgLE
+
+in cmd prompt:
+ 1.npm install --global surge
+ 2.create a folder anywhere in local pc
+ 3.add that folder in visual code and create a new index.html file
+ 4.write your code in index.html file
+ 5.go to local PC. open that folder in cmd line(go inside the folder and replace that url with "cmd", press enter)
+ 6.it displays your project and path of folder
+ 7.check it and press enter
+ 8.it displays domain name.. we can change if needed.(domain name syntax:name_of_domain.surge.sh)press enter
+ 9.success message will be displayed along with the url for created webpage.
+
+(if you are a new user, you should give mail ID and password to create account)
