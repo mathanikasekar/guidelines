@@ -10,5 +10,7 @@ in cmd prompt:
  7.check it and press enter
  8.it displays domain name.. we can change if needed.(domain name syntax:name_of_domain.surge.sh)press enter
  9.success message will be displayed along with the url for created webpage.
-
+ 10.to make changes in created app,in cmd type
+ surge --domain surgeBasicFolder.surge.sh press enter
+  then do from step 6.
 (if you are a new user, you should give mail ID and password to create account)
