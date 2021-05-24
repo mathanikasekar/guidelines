@@ -1,3 +1,4 @@
+
 file->new->project
 ->maven->create from archetype->quickstart->next->name of project(java_prgm)->next->finish.
 then in project:java_prgm->src->main->java->org.example->app.
@@ -34,5 +35,3 @@ alt+ctrl+l
   proper allignment
 shift+alt+ctrl+l
   realignment
-
-  
