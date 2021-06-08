@@ -1,3 +1,17 @@
+to code html in visual studio:
+ new file
+ type code
+ save as fileName.html
+
+ go to extension(left bottom)
+ in search bar, type "open in browser"
+ install that
+ then go back to ur file
+ right click
+ select "open in default browser"
+ it will run code in browser
+
+
 part 1: https://www.youtube.com/watch?v=16tlywKxy4o&t=193s
 part 2: https://www.youtube.com/watch?v=rYLBnKVlej0&t=377s
 
@@ -31,3 +45,13 @@ npm install -g yarn (npm-node package manager)
  it has some code..we can replace the <div> section by our own code.
 
 everytime we should start from step 3 (after installation).
+
+INSTALLING BOOTSTRAP:
+in terminal type
+ npm install react-bootstrap
+ npm install bootstrap
+importing stylesheet
+  bootstrap link:
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+ copy this in index.html(in public directory)
+ add this in head section b4/aftr title.
