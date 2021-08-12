@@ -22,7 +22,7 @@ npm install -g yarn (npm-node package manager)
 
 
 2.open cmd prompt:
-  npm install -g create-react-app(for the first time it wil install, after that it will update)
+  npm install -g create-react-app(for the first time it will install, after that it will update)
 
 3.open visual studio code:
  terminal
