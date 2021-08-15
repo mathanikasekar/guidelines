@@ -1,19 +1,19 @@
 git notes:
 
-install git
+install git(download git-->windows)
 using git cmd clone learnings repository here......
 atom-add project.
 add project folder-add learnings..automatic unstage..thn rit clk stge coments cmit push.
 
-command prompt:
- documents->education->place(need to clone)
- cd documents
- cd education
- git clone https://github.com/mathanikasekar/guidelines.git(link of repository) paste link
-
 Run
   git config --global user.email "mathanika2510@gmail.com"
  git config --global user.name "mathanikasekar"
+
+ command prompt:
+  documents->education->place(need to clone)
+  cd documents
+  cd education
+  git clone https://github.com/mathanikasekar/guidelines.git(link of repository) paste link
 
 git help:
 These are common Git commands used in various situations:

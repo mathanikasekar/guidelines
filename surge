@@ -20,6 +20,11 @@ from visual studio code:
 
  to commit your code in surge:
  in visual studio code, open terminal
+ type npm run build
+ press enter
+ then
+ type cd build
+ press enter
  type surge
  press enter
  it wil display the file path/location
